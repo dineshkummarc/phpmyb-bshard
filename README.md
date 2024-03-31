@@ -1,7 +1,7 @@
 PressHard
 =========
 Fixed Bugs :-
-- Added Visual Studio Version along with Html5 Version [commited dotnet version at https://github.com/dineshkummarc/PressMyB--bsHard].
+- Added Visual Studio Version along with Html5 Version [see https://github.com/dineshkummarc/PressMyB--bsHard].
 - Added size (size can vary upto 5 Unit from 1 Unit)changing utility.
 - Demo Picture in the face.
 - Make provision for images (Issue #2 Extended - make provision for images. use some of the images for making the most part of the game).
