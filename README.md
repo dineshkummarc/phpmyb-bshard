@@ -3,9 +3,9 @@ PressHard
 -[x] Add php version for the project
 
 Fixed Bugs :-
-- [x] Added Visual Studio Version along with Html5 Version.
-- [x] Added size (size can vary upto 5 Unit from 1 Unit)changing utility.
-- [x] Demo Picture in the face.
+-[x] Added Visual Studio Version along with Html5 Version.
+-[x] Added size (size can vary upto 5 Unit from 1 Unit)changing utility.
+-[x] Demo Picture in the face.
 
 Future Changes :-
 - [x] Hand cursor or icon while mouse cursor is on B--bs.
