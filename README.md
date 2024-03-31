@@ -1,6 +1,6 @@
 PressHard
 =========
-- [x] soon to update
+- [x] Add php version for the project
 
 Fixed Bugs :-
 - [x] Added Visual Studio Version along with Html5 Version.
